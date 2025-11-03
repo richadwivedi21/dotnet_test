@@ -4,6 +4,7 @@
         <a href="https://www.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up/?referralCode=64873CEC8BFDA7423006">ASP.NET Core - SOLID and Clean Architecture (.NET 5 and Up) </a>
     </h5>
 </div>
+
 <div data-purpose="safely-set-inner-html:description:description">
     <p>
     <strong>Overview </strong>
